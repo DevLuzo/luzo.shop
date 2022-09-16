@@ -6,7 +6,7 @@ h1 span:nth-child(1) {
     color: blue
 }
 h1 span:nth-child(2) {
-    color:black;
+    color:green;
 }
 
 h1 span:nth-child(3) {
