@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+h2 {
+    font-size: 50px;
+    color: yellow;
+}
+
+h3 {
+    font-size: 50px;
+    color: green;
+}
+
+h4 {
+    font-size: 50px;
+    color: rgb(155, 129, 16);
+}
+
+h5 {
+    font-size: 50px;
+    color: gold;
+}
+
+h6 {
+    font-size: 50px;
+    color: tan;
+}
