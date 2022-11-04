@@ -1,5 +1,6 @@
 function school()
 {
+    alert("학교")
     console.log("school");
     window.open("https://nonschool.netlify.com");
 }
