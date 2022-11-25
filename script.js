@@ -1,12 +1,11 @@
-function school()
-{
-    alert("학교")
-    console.log("school");
-    window.open("https://nonschool.netlify.com");
-}
-
 function sct()
 {
     console.log("계산기")
     window.open("https://javascriptsat.netlify.com")
+}
+
+function home()
+{
+    console.log("home")
+    window.open("luzoshop-home.netlify.app")
 }
