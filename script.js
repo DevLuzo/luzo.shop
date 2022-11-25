@@ -7,5 +7,5 @@ function sct()
 function home()
 {
     console.log("home")
-    window.open("luzoshop-home.netlify.app")
+    window.open("https://luzoshop-home.netlify.app/")
 }
