@@ -13,6 +13,10 @@ h1 span:nth-child(3) {
     color: orange;
 }
 
+h1 span:nth-child(4) {
+    color: yellow;
+}
+
 h1 {
     text-align: center;
     font-size: 80px;
