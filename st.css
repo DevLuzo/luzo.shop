@@ -6,15 +6,15 @@ h1 span:nth-child(1) {
     color: blue
 }
 h1 span:nth-child(2) {
-    color:green;
+    color:yellow;
 }
 
 h1 span:nth-child(3) {
-    color: orange;
+    color: red;
 }
 
 h1 span:nth-child(4) {
-    color: yellow;
+    color: green;
 }
 
 h1 {
@@ -75,7 +75,7 @@ input:hover{
 }
 
 html {
-    background-image: url('./cool.png');
+    background-image: url('./cool.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;

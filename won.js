@@ -1,6 +1,6 @@
 function won()
 {
-    alert("활인하는사이트가는것입니다")
+    alert("활인율을 쉽게 알수있는 사이트로 가느겁니다!")
     var originPrice = document.querySelector('#oPrice').value;  // 원래 가격
     var rate = document.querySelector('#rate').value; // 할인율 
     var savedPrice = originPrice * (rate/100);  // 할인 금액
