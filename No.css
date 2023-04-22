@@ -53,3 +53,10 @@ button:hover{
     box-shadow: 0 2px 4px rgba(0,79,255,0.3);
 
 }
+
+html {
+    background-image: url('./No.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+}
